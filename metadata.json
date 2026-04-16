@@ -1,0 +1,6 @@
+{
+  "name": "PodiaGuard AI",
+  "description": "Professional-grade DFU risk assessment tool featuring automated neural scan triggers upon file upload and interactive diagnostic hotspots for clinicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
